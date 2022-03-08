@@ -1,1 +1,2 @@
-# 7-03-22
+str=input()
+print(str[1:-1])
